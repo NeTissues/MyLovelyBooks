@@ -1,0 +1,6 @@
+.navbar{
+	background-color: #cf5247;
+	margin-top:5%;
+	margin-left: 10%;
+	margin-right: 10%;
+}

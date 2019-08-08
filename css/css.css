@@ -1,0 +1,162 @@
+.body{
+
+}
+
+textarea {
+   resize: none;
+   height: 40%;
+}
+
+.img-responsive{ 
+	display: block;
+    margin: 0 auto;
+	width: auto;
+	height: 30%;
+}
+
+.banner{
+	float: none;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
+.livro{
+	width: auto;
+    height:auto;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+}
+
+.panel-heading{
+	background-color: #f2ad4d !important;
+}
+
+
+.row{
+	margin-left:1%;
+}
+
+.navbar{
+	background-color: #cf5247;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+.painel{
+	margin-left: 10%;
+}
+
+.painel-top{
+	margin-left: 5%;
+}
+
+.li.hover, .li.active, .li.visited, a:hover, a:active, a:focus{
+	background-color: #ef6d62 !important;
+}
+
+a.black:visited, a.black:link {
+	color: black !important;
+}
+
+a:visited, a:link {
+	color: white;
+}
+
+.top-scroll {
+    height:auto;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+}
+
+.login{
+	background-color: #cf5247;
+	margin-top: 20%;
+	text-align: center;
+}
+
+.login-text{
+	color: #ffffff;
+}
+
+.banner-page{
+	margin-top: 20%;
+	margin-left: 20%;
+}
+
+div.form
+{
+    display: block;
+    text-align: center;
+}
+
+form
+{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+.separar{
+	padding: 1%;
+}
+
+.myperfil{
+	background: white !important;
+	border-radius: 25px;
+	border: 2px solid #ef6d62;
+}
+
+.mybooks{
+	background: white !important;
+	border-radius: 25px;
+    border: 2px solid #f2ad4d;
+}
+
+.legenda{
+	font-size: 16px;
+	color: black;
+	margin-bottom:3%
+}
+
+.lido, .lendo, .interesse{
+	content: "•";
+   font-size: 360%; /* or whatever */
+   padding-right: 5px;
+   margin-bottom: -10%;
+}
+
+.lido{
+	color: green;
+}
+
+.lendo{
+	color: 	#87CEEB;
+}
+
+.interesse{
+	color: orange;
+}
+
+.arrumar{
+	margin-left:13%;
+}
+
+.aproximar-topo{
+	margin-top: -6%;
+}
+
+.coment-border{
+	border-radius: 25px;
+    border: 2px solid #b74e4e;
+}
+.comentario{
+	background-color: #edeaea;
+	padding: 2%;
+}
+
+.no-dot{
+	list-style-type: none;
+}
